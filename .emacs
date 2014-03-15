@@ -1,0 +1,7 @@
+(setq-default indent-tabs-mode nil)
+(setq require-final-newline t)
+(global-linum-mode 1)
+(setq column-number-mode t)
+(setq show-paren-style 'expression)
+(setq blink-matching-paren-distance nil)
+(cua-mode t)
